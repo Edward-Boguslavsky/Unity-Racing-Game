@@ -8,14 +8,14 @@ This is a racing game for Android OS I am building with C# in Unity Engine. The 
 
 ### Driving In Game
 
-![Game drift](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/README/game_drift.jpg?raw=true)
+![Game drift](https://github.com/Edward-Boguslavsky/Unity-Racing-Game/blob/main/README/game_drift.jpg?raw=true)
 
-![Game drift more](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/README/game_drift_more.jpg?raw=true)
+![Game drift more](https://github.com/Edward-Boguslavsky/Unity-Racing-Game/blob/main/README/game_drift_more.jpg?raw=true)
 
 ### Garage Car Selection
 
-![Garage car select](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/README/garage_car_select.jpg?raw=true)
+![Garage car select](https://github.com/Edward-Boguslavsky/Unity-Racing-Game/blob/main/README/garage_car_select.jpg?raw=true)
 
 ### Garage Car Modification
 
-![Garage car mods](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/README/garage_car_mods.jpg?raw=true)
+![Garage car mods](https://github.com/Edward-Boguslavsky/Unity-Racing-Game/blob/main/README/garage_car_mods.jpg?raw=true)
